@@ -1,3 +1,6 @@
 [submodule "routersploit"]
 	path = routersploit
 	url = https://www.github.com/threat9/routersploit
+[submodule "FruittyWiFi"]
+	path = FruittyWiFi
+	url = https://github.com/xtr4nge/FruityWifi
